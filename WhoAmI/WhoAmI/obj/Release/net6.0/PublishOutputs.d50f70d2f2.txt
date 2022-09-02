@@ -1,0 +1,5 @@
+C:\Users\ΣΩΤΗΡΗΣ\Desktop\GAME LOL\WhoAmI.exe
+C:\Users\ΣΩΤΗΡΗΣ\Desktop\GAME LOL\WhoAmI.dll
+C:\Users\ΣΩΤΗΡΗΣ\Desktop\GAME LOL\WhoAmI.deps.json
+C:\Users\ΣΩΤΗΡΗΣ\Desktop\GAME LOL\WhoAmI.runtimeconfig.json
+C:\Users\ΣΩΤΗΡΗΣ\Desktop\GAME LOL\WhoAmI.pdb

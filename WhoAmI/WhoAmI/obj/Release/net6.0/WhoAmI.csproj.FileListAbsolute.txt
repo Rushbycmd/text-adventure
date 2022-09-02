@@ -1,0 +1,15 @@
+D:\APP-REPOS\WhoAmI\WhoAmI\bin\Release\net6.0\WhoAmI.exe
+D:\APP-REPOS\WhoAmI\WhoAmI\bin\Release\net6.0\WhoAmI.deps.json
+D:\APP-REPOS\WhoAmI\WhoAmI\bin\Release\net6.0\WhoAmI.runtimeconfig.json
+D:\APP-REPOS\WhoAmI\WhoAmI\bin\Release\net6.0\WhoAmI.dll
+D:\APP-REPOS\WhoAmI\WhoAmI\bin\Release\net6.0\WhoAmI.pdb
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\WhoAmI.csproj.AssemblyReference.cache
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\WhoAmI.GeneratedMSBuildEditorConfig.editorconfig
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\WhoAmI.AssemblyInfoInputs.cache
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\WhoAmI.AssemblyInfo.cs
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\WhoAmI.csproj.CoreCompileInputs.cache
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\WhoAmI.dll
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\refint\WhoAmI.dll
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\WhoAmI.pdb
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\WhoAmI.genruntimeconfig.cache
+D:\APP-REPOS\WhoAmI\WhoAmI\obj\Release\net6.0\ref\WhoAmI.dll
